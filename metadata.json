@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Editor",
+  "description": "Edit images with text prompts using the Gemini API. Upload a picture and describe the changes you want to see.",
+  "requestFramePermissions": []
+}
